@@ -1,0 +1,63 @@
+═══════════════════════════════════════════════
+LYRICS TIMING IN BLENDER - KOMPLETTE ANLEITUNG
+═══════════════════════════════════════════════
+
+VORBEREITUNG:
+-------------
+1. Öffne dein Blender-Projekt
+2. Lade die Audio-Datei:
+   - Video Editing Tab
+   - Add → Sound → deine MP3
+   - Ziehe sie auf Frame 1
+
+LYRICS ANPASSEN:
+----------------
+1. Wechsle zum "Dope Sheet" (unten links, Dropdown-Menü)
+2. Ändere Modus zu "Dope Sheet" → "Action Editor"
+
+3. WICHTIG: Siehe Video UND Timeline gleichzeitig:
+   - Teile das Fenster (rechte obere Ecke → Drag)
+   - Links: Timeline/Dope Sheet
+   - Rechts: 3D Viewport
+
+4. LYRICS-OBJEKTE FINDEN:
+   - Im Outliner (rechts): Suche "Lyric_"
+   - Jedes Lyric-Objekt hat 4 Keyframes:
+     * Start (Alpha = 0)
+     * Fade In (Alpha = 1)
+     * Fade Out (Alpha = 1)
+     * End (Alpha = 0)
+
+5. TIMING ANPASSEN:
+   a) Spiele Audio ab (Leertaste)
+   b) Höre WANN Text gesungen wird
+   c) Notiere Frame-Nummer (unten in Timeline)
+   d) Selektiere Lyric-Objekt im Outliner
+   e) Im Dope Sheet: Verschiebe alle 4 Keyframes zusammen:
+      - Wähle alle 4 Keyframes (Box Select: B-Taste)
+      - G-Taste drücken (Grab/Move)
+      - Bewege nach links/rechts
+      - Klicke oder Enter zum Bestätigen
+
+6. LÄNGE ANPASSEN:
+   - Zu kurz? → Ziehe "Fade Out" Keyframe nach rechts
+   - Zu lang? → Ziehe "Fade Out" Keyframe nach links
+
+FORMEL FÜR FRAME-BERECHNUNG:
+----------------------------
+Bei 30 FPS:
+1 Sekunde = 30 Frames
+2 Sekunden = 60 Frames
+0.5 Sekunden = 15 Frames
+
+Beispiel:
+Text kommt bei 0:12 (12 Sekunden)
+→ Frame: 12 × 30 = 360
+
+SCHNELLE METHODE:
+-----------------
+1. Audio abspielen
+2. Bei jedem Text-Einsatz: Taste "I" drücken (Insert Marker)
+3. Markers nutzen als Referenz
+4. Lyrics-Keyframes zu Markers verschieben
+
