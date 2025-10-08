@@ -1,31 +1,32 @@
-# 🎵 tuxplayer-studio
+# 🎵 TUXPLAYERS - STUDIO !!!
 
 **Automatisierter Lyrics-Video-Generator für Musiker – powered by Blender, Bash und Python**
 
-![Screenshot 1](docs/screenshots/1.png)
-*Beschreibung Screenshot 1*
+![Screenshot 1](docs/screenshots/1.png)  
+KDE tuxplayer-studio Auswahlfenster 1 – Was willst du machen?
 
-![Screenshot 2](docs/screenshots/2.png)
-*Beschreibung Screenshot 2*
+![Screenshot 2](docs/screenshots/2.png)  
+KDE tuxplayer-studio Auswahlfenster – Bestehendes Projekt bearbeiten!
 
-![Screenshot 3](docs/screenshots/3.png)
-*Beschreibung Screenshot 3*
+![Screenshot 3](docs/screenshots/3.png)  
+KDE tuxplayer-studio Auswahlfenster – Scripte ausführen und neue Datei anlegen!
 
 ![Video Output Beispiel](docs/screenshots/video-example.png)  
-*Typischer fertiger Lyrics-Clip aus Blender*  
+*Typischer fertiger Lyrics-Clip aus Blender*
+
+[🎥 Beispiel-Video Output ansehen (noch nicht hochgeladen)](https://www.youtube.com/link-zu-deinem-video)
 
 ---
 
 ## ✨ Features
 
-- Grafische KDE-Oberfläche – keine Terminalkenntnisse nötig
+- Grafische KDE-Oberfläche – keine Terminalkenntnisse nötig  
 - Vollautomatische Blender-Videoerstellung aus MP3 und Lyrics  
 - Multi-Style Visualizer: Metal, Electro, Pop  
 - Direkte MP3-zu-Video-Konvertierung in Minuten  
 - Optionale Whisper AI für Lyrics-Extraktion  
 - Verschiedene Qualitätsstufen: Preview bis 4K  
-- Schneller Workflow für Musiker & Content Creators
-
+- Schneller Workflow für Musiker & Content Creators  
 ---
 
 ## 🚀 Installation
@@ -140,4 +141,5 @@ MIT License – siehe [`LICENSE`](LICENSE)
 
 Made with ❤️ for the music community  
 Von einem Musiker, für Musiker 🎵  
-# tuxplayer-studio
+
+# TUXPLAYERS - STUDIO ROCKE dein Leben !  
