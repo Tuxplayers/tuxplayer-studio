@@ -2,8 +2,14 @@
 
 **Automatisierter Lyrics-Video-Generator für Musiker – powered by Blender, Bash und Python**
 
-![TUXPLAYER Studio GUI](docs/screenshots/gui-main.png)  
-*TUXPLAYER Studio Hauptfenster*  
+![Screenshot 1](docs/screenshots/1.png)
+*Beschreibung Screenshot 1*
+
+![Screenshot 2](docs/screenshots/2.png)
+*Beschreibung Screenshot 2*
+
+![Screenshot 3](docs/screenshots/3.png)
+*Beschreibung Screenshot 3*
 
 ![Video Output Beispiel](docs/screenshots/video-example.png)  
 *Typischer fertiger Lyrics-Clip aus Blender*  
